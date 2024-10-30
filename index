@@ -1,0 +1,70 @@
+<html>
+  <h1>Geometry Dash<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/4/41/Geometry_Dash_logo.webp/180px-Geometry_Dash_logo.webp.png?20190202002629" width="30px"height="30px"/></h1>
+  <h3>Обычные сложности</h3>
+   <table style="border:3px solid yellow;border-collapse:collapse;">
+    <tr>
+      <td style="border:3px solid yellow">сложность</td>
+      <td style="border:3px solid yellow">пример уровня</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid yellow"><img src="https://w7.pngwing.com/pngs/606/937/png-transparent-geometry-dash-escape-the-core-robtop-games-magnet-miscellaneous-face-technic-thumbnail.png" width="30px"height="30px"/>easy</td>
+      <td style="border:3px solid yellow">Retray</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid yellow"><img src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-jytn-p-geometry-dash-png-5.png" width="30px"height="30px"/>normal</td>
+      <td style="border:3px solid yellow">And of line</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid yellow"><img src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-k47o-p-geometry-dash-png-11.png" width="30px"height="30px"/>hard</td>
+      <td style="border:3px solid yellow">Stereo madness x</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid yellow"><img src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-ju6b-p-geometry-dash-png-1.png" width="30px"height="30px"/>harder</td>
+      <td style="border:3px solid yellow">Nition</td>
+    </tr>
+    <td style="border:3px solid yellow"><img src="https://w7.pngwing.com/pngs/562/67/png-transparent-geometry-dash-dash-till-puff-2-face-hexagon-geometry-miscellaneous-purple-game-thumbnail.png" width="30px"height="30px"/>insane</td>
+    <td style="border:3px solid yellow">Unity</td>
+   </table>
+  <h3>Демоны</h3>
+   <table style="border:3px solid orange;border-collapse:collapse;">
+        <tr>
+      <td style="border:3px solid orange;border-collapse:collapse;">сложность</td>
+      <td style="border:3px solid orange;border-collapse:collapse;">пример уровня</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid orange;border-collapse:collapse;"><img src="https://w7.pngwing.com/pngs/987/56/png-transparent-geometry-dash-face-demon-social-media-demon-purple-violet-photography-thumbnail.png" width="30px"height="30px"/>easy demon</td>
+      <td style="border:3px solid orange;border-collapse:collapse;">X</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid orange;border-collapse:collapse;"><img src="https://w7.pngwing.com/pngs/117/512/png-transparent-geometry-dash-demon-social-media-demon-purple-face-smiley-thumbnail.png" width="30px"height="30px"/>medium demon</td>
+      <td style="border:3px solid orange;border-collapse:collapse;">SpArTa</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid orange;border-collapse:collapse;"><img src="https://w7.pngwing.com/pngs/485/109/png-transparent-geometry-dash-demon-computer-icons-game-geometri-video-game-fictional-character-wikia-thumbnail.png" width="30px"height="30px"/>hard demon</td>
+      <td style="border:3px solid orange;border-collapse:collapse;">Nine circles</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid orange;border-collapse:collapse;"><img src="https://w7.pngwing.com/pngs/965/69/png-transparent-geometry-dash-demon-face-demon-game-smiley-emoticon-thumbnail.png" width="30px"height="30px"/>insane demon</td>
+      <td style="border:3px solid orange;border-collapse:collapse;">Stalemate</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid orange;border-collapse:collapse;"><img src="https://w7.pngwing.com/pngs/36/976/png-transparent-geometry-dash-youtube-demon-geomentry-face-head-smiley-thumbnail.png" width="30px"height="30px"/>extreme demon</td>
+      <td style="border:3px solid orange;border-collapse:collapse;">Sakupen circles</td> 
+    </tr>
+    </table>
+  <h3>Особые сложности</h3>
+   <table style="border:3px solid red;border-collapse:collapse;">
+    <tr>
+     <td style="border:3px solid red;border-collapse:collapse;">сложность</td>
+     <td style="border:3px solid red;border-collapse:collapse;">пример уровня</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid red;border-collapse:collapse;"><img src="https://w7.pngwing.com/pngs/383/707/png-transparent-geometry-dash-shadow-face-wikia-geomentry-miscellaneous-face-smiley-thumbnail.png" width="30px"height="30px"/>na</td>
+      <td style="border:3px solid red;border-collapse:collapse;">Bloodbath V2</td>
+    </tr>
+    <tr>
+      <td style="border:3px solid red;border-collapse:collapse;"><img src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-jxog-p-geometry-dash-png-4.png" width="30px"height="30px"/>auto</td>
+      <td style="border:3px solid red;border-collapse:collapse;">Dectructive auto</td> 
+    </tr>
+   </table>
+</html>
